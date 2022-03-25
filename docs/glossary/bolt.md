@@ -8,7 +8,7 @@ meta:
 
 # Bolt
 
-Chainstack's patented node synchronization technology.
+A Chainstack patent pending node synchronization technology.
 
 Chainstack does regular snapshots of the blockchain data and keeps the data in the platform's snapshot registry.
 
